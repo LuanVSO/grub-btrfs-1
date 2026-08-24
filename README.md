@@ -64,7 +64,7 @@ Booting into read-only snapshots is fully supported when choosing btrfs as the f
   * [btrfs-progs](https://archlinux.org/packages/core/x86_64/btrfs-progs/)
   * [grub](https://archlinux.org/packages/core/x86_64/grub/)
   * [bash >4](https://archlinux.org/packages/core/x86_64/bash/)
-  * [gawk](https://archlinux.org/packages/core/x86_64/gawk/)
+  * awk ([gawk](https://archlinux.org/packages/core/x86_64/gawk/), mawk)
   * (only when using the grub-btrfsd daemon)[inotify-tools](https://archlinux.org/packages/extra/x86_64/inotify-tools/)
 
 - - -
